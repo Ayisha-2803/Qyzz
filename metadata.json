@@ -1,0 +1,6 @@
+{
+  "name": "Qyzz",
+  "description": "Learn. Play. Rise. An AI-powered, gamified quiz platform inspired by Duolingo, Linear, and Notion featuring rich animations, level progression, real-time analytics, certificates, and dual-mode themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
