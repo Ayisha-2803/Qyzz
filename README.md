@@ -1,4 +1,3 @@
-Qyzz 
 # 🏆 Rise Scholar — Ultimate Gamified Cognitive Arena
 
 > A premium, high-fidelity gamified assessment experience styled to absolute precision. Test your cognitive bounds, accumulate XP multipliers, hold the streak flame active, and earn master credentials.
